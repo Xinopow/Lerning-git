@@ -1,1 +1,2 @@
-# Lerning-git
+# Learning-git
+# Try to start learning
